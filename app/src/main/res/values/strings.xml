@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Archivos Internos</string>
+    <string name="msj">Escriba</string>
+    <string name="action_settings">Settings</string>
+    <string name="guardar">Guardar</string>
+    <string name="abrir">Abrir</string>
+</resources>
